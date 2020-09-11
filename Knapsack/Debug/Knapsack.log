@@ -1,3 +1,2 @@
 ﻿  Knapsack.cpp
-C:\Knapsack\Knapsack\Knapsack\Knapsack.cpp(13,2): error C2065: 'cout': undeclared identifier
-C:\Knapsack\Knapsack\Knapsack\Knapsack.cpp(13,10): error C3861: 'knapSack': identifier not found
+  Knapsack.vcxproj -> E:\AUC\Courses\CSCE_1101 Fundamentals of Computing II\Lab\Sessions\S_1\Knapsack\Debug\Knapsack.exe
